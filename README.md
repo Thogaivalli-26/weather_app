@@ -30,7 +30,8 @@ A modern, full-stack weather application that provides real-time meteorological 
 ##  Screenshots
 
 ### Home Page
-![Home Page]([screenshots/home.png](https://github.com/Thogaivalli-26/weather_app/blob/main/weather%20app%20home%20page.png))
+<img width="1333" height="750" alt="image" src="https://github.com/user-attachments/assets/35b0ad27-d0c3-4d17-ac43-3cc12df4f24b" />
+
 
 ### Weather Results
 <img width="793" height="868" alt="image" src="https://github.com/user-attachments/assets/798e44e8-199c-41ec-b8c3-8b2af54d5591" />
